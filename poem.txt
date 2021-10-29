@@ -1,6 +1,6 @@
 A poem about roses
 
-Roses are red,
+Hello world,
 Daisies are blue,
 Sugar is sweet,
 And so are you.
