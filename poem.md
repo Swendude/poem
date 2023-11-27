@@ -1,6 +1,6 @@
 Roses are red,
 Violets are blue,
-When I code, I think of you!
+When I code, I think of me!
 
 Roses are red,
 Violets are blue,
